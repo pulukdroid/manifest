@@ -1,11 +1,11 @@
 {
-  "name": "pulukdroid.com",
-  "short_name": "Puluk Droid",
+  "name": "PULUK DROID",
+  "short_name": "PULUK DROID",
   "start_url": "https://www.pulukdroid.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#7975ff",
-  "description": "membahas seputar tips dan trik android, root, unlock bootloader, custom rom, game android dan informasi menarik lainnya.",
+  "description": "Blog yang membahas cara mengatasi masalah pada Smartphone Android, Komputer, Aplikasi, Game dan informasi menarik lainnya.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-WhWbKbFKeZ4/XxqVYbZ9WeI/AAAAAAAAAk4/9flU37XQtaE0wN4S0Z_i3jhF_T2PDPuUACLcBGAsYHQ/s1600/favicon-48s.png",
     "sizes": "48x48",
