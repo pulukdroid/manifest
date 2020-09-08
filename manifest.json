@@ -1,43 +1,43 @@
 {
-  "name": "PULUK DROID",
-  "short_name": "PULUK DROID",
+  "name": "PulukDroid",
+  "short_name": "PulukDroid",
   "start_url": "https://www.pulukdroid.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#7975ff",
   "description": "Blog yang membahas cara mengatasi masalah pada Smartphone Android, Komputer, Aplikasi, Game dan informasi menarik lainnya.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-crujuD9-Mbk/XzC6dynVqTI/AAAAAAAABNI/Ki7WINMyWZ4hWu4h_U0Z_Pu5JVt6yhHKACLcBGAsYHQ/s1600/android-icon-36x36.png",
+    "src": "https://1.bp.blogspot.com/-IQVEP6wEPjA/X1e3x-jJRoI/AAAAAAAABzo/zdVjaXsQgswWFE1mrHPqW-VeF5AtB7J5gCLcBGAsYHQ/s0/android-icon-36x36.png",
     "sizes": "36x36",
     "type": "image/png",
     "density": "0.75"
   }, {
-    "src": "https://1.bp.blogspot.com/-lCg2b3KSSwY/XzC6mMQw9rI/AAAAAAAABNM/1HSk0VR9CCoS34sB_KMaWNYINheny77TQCLcBGAsYHQ/s1600/android-icon-48x48.png",
+    "src": "https://1.bp.blogspot.com/-KR1gaZCUfvc/X1e38UcgauI/AAAAAAAABzs/TtIwZPDBjEcACtCr2tkQ0IgIP-quykAvwCLcBGAsYHQ/s0/android-icon-48x48.png",
     "sizes": "48x48",
     "type": "image/png",
     "density": "1.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-HkS0_59cAb8/XzC6wlcmd5I/AAAAAAAABNU/Vb6ELeV1DrEiyuWNDuys_jvqqMRGOdexwCLcBGAsYHQ/s1600/android-icon-72x72.png",
+    "src": "https://1.bp.blogspot.com/-NBbqUE7Nmpw/X1e4IBkamOI/AAAAAAAABz0/UYfX0a-0914G0yBR5sstuG8q7pqCAYfrgCLcBGAsYHQ/s0/android-icon-72x72.png",
     "sizes": "72x72",
     "type": "image/png",
     "density": "1.5"
   }, {
-    "src": "https://1.bp.blogspot.com/-Tw8VmsIaNPU/XzC640aXwFI/AAAAAAAABNc/nH4kEsEZhGsvxvewCZyN6qpOPcZr8qCVwCLcBGAsYHQ/s1600/android-icon-96x96.png",
+    "src": "https://1.bp.blogspot.com/-_rgPQ2fm__M/X1e4QmB3BTI/AAAAAAAABz8/BRndxtLBq9QGV2b4g7bsQC0jEjJBiVklwCLcBGAsYHQ/s0/android-icon-96x96.png",
     "sizes": "96x96",
     "type": "image/png",
     "density": "2.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-l0aoCTtxNRI/XzC64ypyuZI/AAAAAAAABNg/Mqj8yx5in14mHkp2fLfrR_kLOtf6cb0-gCLcBGAsYHQ/s1600/android-icon-144x144.png",
+    "src": "https://1.bp.blogspot.com/-bTV3v_x4bRs/X1e5IZ2lFEI/AAAAAAAAB0g/H9qP9K7qrSw4NaH47zkc9a0Vbb62tZw_ACLcBGAsYHQ/s0/android-icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
     "density": "3.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-vVbr_ll0wdM/XzC7HKigD-I/AAAAAAAABNk/Wz869Ko9UfkBJgz87Bq4O0qcNfO0vnKRACLcBGAsYHQ/s1600/android-icon-192x192.png",
+    "src": "https://1.bp.blogspot.com/-Iy60AagybPQ/X1e4mkp9_QI/AAAAAAAAB0M/wQUHluH9G8kw7O0MLHZn8hbobRiyd8PHwCLcBGAsYHQ/s0/android-icon-192x192.png",
     "sizes": "192x192",
     "type": "image/png",
     "density": "4.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-RQ1ZtfrQTYs/Xy7I3q1ZI3I/AAAAAAAABCs/XNGhJaiJRDodDdgBr6Pi6BzJ073204zCACLcBGAsYHQ/s1600/android-chrome-512x512.png",
+    "src": "https://1.bp.blogspot.com/-9dpsfln_ISQ/X1e47lK9aMI/AAAAAAAAB0Y/XRTWSSUqJu0wGRmkcTHEduvXWAdRO8ldACLcBGAsYHQ/s0/pulukdroidicon.png",
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0"
